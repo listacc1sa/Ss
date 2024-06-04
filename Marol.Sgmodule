@@ -1,0 +1,179 @@
+#!name=Marol
+#!desc=Marol
+
+[URL Rewrite]
+https://pangolin.snssdk.com/api/ad/union/sdk/get_ads/ - reject-200
+
+[Script]
+accuWeather = type=http-response, pattern=https://app-subscription-proxy.accuweather.com/subscriptions/v1/apple/validate, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/accuWeather.js, requires-body=true, max-size=-1, timeout=60
+
+adobe = type=http-response, pattern=https://lcs-mobile-cops.adobe.io/mobile_profile/nul/v2, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/adobe.js, requires-body=true, max-size=-1, timeout=60
+
+adobeScanPdf = type=http-response, pattern=https://createpdf.acrobat.com/createpdf/api/users/me/subscriptions, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/adobeScanPdf.js, requires-body=true, max-size=-1, timeout=60
+
+alarmy = type=http-response, pattern=https://ars.alar.my/api/v2/user/sync, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/alarmy.js, requires-body=true, max-size=-1, timeout=60
+
+aloha = type=http-response, pattern=https://api.alohaprofile.com/v1/profile_info, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/aloha.js, requires-body=true, max-size=-1, timeout=60
+
+audiomack = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/audiomack.js, requires-body=true, max-size=-1, timeout=60
+
+bazaart = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/bazaart.js, requires-body=true, max-size=-1, timeout=60
+
+bdyun = type=http-response, pattern=https://pan.baidu.com/rest/2.0/membership/user, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/bdyun.js, requires-body=true, max-size=-1, timeout=60
+
+bedtimeFan = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/bedtimeFan.js, requires-body=true, max-size=-1, timeout=60
+
+chai = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/chai.js, requires-body=true, max-size=-1, timeout=60
+
+chatai = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/chatai.js, requires-body=true, max-size=-1, timeout=60
+
+chatMe = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/chatMe.js, requires-body=true, max-size=-1, timeout=60
+
+cleanVpn = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/cleanVpn.js, requires-body=true, max-size=-1, timeout=60
+
+colorwidget = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/colorwidget.js, requires-body=true, max-size=-1, timeout=60
+
+dailyYoga = type=http-response, pattern=https://pre.dailyyoga.com/h2oapi/user/getUserDetail, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/dailyYoga.js, requires-body=true, max-size=-1, timeout=60
+
+dailyZX = type=http-response, pattern=https://api.revenuecat.com/v1/receipts, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/dailyZX.js, requires-body=true, max-size=-1, timeout=60
+
+darkroom = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/darkroom.js, requires-body=true, max-size=-1, timeout=60
+
+daylio = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/daylio.js, requires-body=true, max-size=-1, timeout=60
+
+emmo = type=http-response, pattern=http://106.54.2.168/emmoDiary/user/getUser, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/emmo.js, requires-body=true, max-size=-1, timeout=60
+
+fabulous = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/fabulous.js, requires-body=true, max-size=-1, timeout=60
+
+femometer = type=http-response, pattern=https://api.bongmi.com/v1/subscription/*/status, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/femometer.js, requires-body=true, max-size=-1, timeout=60
+
+filmr = type=http-response, pattern=https://payments.invideo.io/verify_purchase, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/filmr.js, requires-body=true, max-size=-1, timeout=60
+
+filmr = type=http-response, pattern=https://payments.invideo.io/subscription, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/filmr.js, requires-body=true, max-size=-1, timeout=60
+
+fingertime = type=http-response, pattern=https://integral.dasyibalang.com/User, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/fingertime.js, requires-body=true, max-size=-1, timeout=60
+
+iAm = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/iAm.js, requires-body=true, max-size=-1, timeout=60
+
+lovePdf = type=http-response, pattern=https://service.ilovepdf.com/v1/user, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/lovePdf.js, requires-body=true, max-size=-1, timeout=60
+
+imuseum = type=http-response, pattern=https://icity-imsm.2q10.com/api/v1/users/mark_paid, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/imuseum.js, requires-body=true, max-size=-1, timeout=60
+
+judu = type=http-response, pattern=https://judouapp.com/api/v2/mine/profile, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/judu.js, requires-body=true, max-size=-1, timeout=60
+
+kaiXinPai = type=http-response, pattern=https://face.app.superclear.cn/hw/apple/subscribe/v1, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/kaiXinPai.js, requires-body=true, max-size=-1, timeout=60
+
+kika = type=http-response, pattern=https://api.kikakeyboard.com/v1/ios/subscription/check/user, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/kika.js, requires-body=true, max-size=-1, timeout=60
+
+lakecolor = type=http-response, pattern=https://revenuecat.lakecoloring.com/v1/(receipts|subscribers), script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/lakecolor.js, requires-body=true, max-size=-1, timeout=60
+
+liveWallpaperMaker = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/liveWallpaperMaker.js, requires-body=true, max-size=-1, timeout=60
+
+mcafee = type=http-response, pattern=https://securitymgmt.unifiedapis.mcafee.com/features/v1/Subscription/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/mcafee.js, requires-body=true, max-size=-1, timeout=60
+
+mcafeeVpn = type=http-response, pattern=https://msc.mcafee.com/api/v1/app/provision/info, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/mcafeeVpn.js, requires-body=true, max-size=-1, timeout=60
+
+mdmanga = type=http-response, pattern=https://app.lalaldc.cn/api/lifan-customer/customer/info, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/mdmanga.js, requires-body=true, max-size=-1, timeout=60
+
+mobileFax = type=http-response, pattern=https://faxapp.biz/api/account/subscription, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/mobileFax.js, requires-body=true, max-size=-1, timeout=60
+
+mojo = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/mojo.js, requires-body=true, max-size=-1, timeout=60
+
+motivation = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/motivation.js, requires-body=true, max-size=-1, timeout=60
+
+musixmatch = type=http-response, pattern=https://apic.musixmatch.com/ws/1.1/config.get, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/musixmatch.js, requires-body=true, max-size=-1, timeout=60
+
+myFitnessPal = type=http-response, pattern=https://premium-api.myfitnesspal.com/v3/subscriptions/MFP/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/myFitnessPal.js, requires-body=true, max-size=-1, timeout=60
+
+myPlate = type=http-response, pattern=https://www.livestrong.com/service/user/profile/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/myPlate.js, requires-body=true, max-size=-1, timeout=60
+
+naiyou = type=http-response, pattern=https://nz-api.duitang.com/account/me, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/naiyou.js, requires-body=true, max-size=-1, timeout=60
+
+notBoringWeather = type=http-response, pattern=https://api-weather.andy.works/v1/checkSubscriptions, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/notBoringWeather.js, requires-body=true, max-size=-1, timeout=60
+
+noto = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/noto.js, requires-body=true, max-size=-1, timeout=60
+
+nowPonder = type=http-response, pattern=https://nowapi.navoinfo.cn/h2/user/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/nowPonder.js, requires-body=true, max-size=-1, timeout=60
+
+pdfViewer = type=http-response, pattern=https://api.revenuecat.com/v1/subscribers/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/pdfViewer.js, requires-body=true, max-size=-1, timeout=60
+
+periodHelper = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/periodHelper.js, requires-body=true, max-size=-1, timeout=60
+
+periodLife = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/periodLife.js, requires-body=true, max-size=-1, timeout=60
+
+picCollage = type=http-response, pattern=https://piccollage.com/api/graphql, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/picCollage.js, requires-body=true, max-size=-1, timeout=60
+
+picsart = type=http-response, pattern=https://api.(meiease|picsart).(cn|com)/shop/subscription/apple/purchases, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/picsart.js, requires-body=true, max-size=-1, timeout=60
+
+pixelcut = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/pixelcut.js, requires-body=true, max-size=-1, timeout=60
+
+proKnockOut = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/proKnockOut.js, requires-body=true, max-size=-1, timeout=60
+
+scannerPro = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/scannerPro.js, requires-body=true, max-size=-1, timeout=60
+
+shadowlink = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/shadowlink.js, requires-body=true, max-size=-1, timeout=60
+
+smallpdf = type=http-response, pattern=https://pro.smallpdf.com/pro/account, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/smallpdf.js, requires-body=true, max-size=-1, timeout=60
+
+soundcloud = type=http-response, pattern=https://api-mobile.soundcloud.com/configuration/ios, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/soundcloud.js, requires-body=true, max-size=-1, timeout=60
+
+tangerine = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/tangerine.js, requires-body=true, max-size=-1, timeout=60
+
+tenPercent = type=http-response, pattern=https://api.changecollective.com/api/v3/user, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/tenPercent.js, requires-body=true, max-size=-1, timeout=60
+
+timebook = type=http-response, pattern=https://api.shouzhang.com/memcenterlk/member, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/timebook.js, requires-body=true, max-size=-1, timeout=60
+
+tor = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/tor.js, requires-body=true, max-size=-1, timeout=60
+
+unfold = type=http-response, pattern=https://api.unfold.app/v1/ios/receipts, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/unfold.js, requires-body=true, max-size=-1, timeout=60
+
+voiceChanger = type=http-response, pattern=https://www.40sishi.com/voice/user/profile, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/voiceChanger.js, requires-body=true, max-size=-1, timeout=60
+
+voloco = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/voloco.js, requires-body=true, max-size=-1, timeout=60
+
+vpnUnlimited = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/vpnUnlimited.js, requires-body=true, max-size=-1, timeout=60
+
+waterReminder = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/waterReminder.js, requires-body=true, max-size=-1, timeout=60
+
+widgetSmith = type=http-response, pattern=https://api.revenuecat.com/v1/subscribers/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/widgetSmith.js, requires-body=true, max-size=-1, timeout=60
+
+workoutForWomen = type=http-response, pattern=https://buy.itunes.apple.com/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/workoutForWomen.js, requires-body=true, max-size=-1, timeout=60
+
+xunlei = type=http-response, pattern=https://xluser-ssl.xunlei.com/xluser.core.login/v3/getuserinfo, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/xunlei.js, requires-body=true, max-size=-1, timeout=60
+
+yifei = type=http-response, pattern=https://(us-central1-giftr-83d83|us-central1-infltr).cloudfunctions.net/verifySubscription, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/yifei.js, requires-body=true, max-size=-1, timeout=60
+
+ytxj = type=http-response, pattern=https?:\/\/m2u-api\.getkwai\.com\/api-server\/api\/v\d\/vip\/vipUserInfo, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/ytxj.js, requires-body=true, max-size=-1, timeout=60
+
+zinnia = type=http-response, pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/zinnia.js, requires-body=true, max-size=-1, timeout=60
+
+photoScanner = type=http-response, pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/photoScanner.js, requires-body=true, max-size=-1, timeout=60
+
+widgethub = type=http-response, pattern=^https:\/\/wejet\.app\/API\/userInfo, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/widgethub.js, requires-body=true, max-size=-1, timeout=60
+
+Wnds = type=http-response, pattern=^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/Wnds.js, requires-body=true, max-size=-1, timeout=60
+
+yfjl = type=http-response, pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/yfjl.js, requires-body=true, max-size=-1, timeout=60
+
+replaceBody = type=http-response, pattern=https://api.funimate.com/users/*, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=%22is_pro_user%22%3A.*%3F%2C-%3E%22is_pro_user%22%3A%20true%2C
+
+replaceBody = type=http-response, pattern=https://manga.1kxun.mobi/api/users/*, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=%22is_vip%22%3A.*%3F%2C-%3E%22is_vip%22%3A%201%2C
+
+replaceBody = type=http-response, pattern=https://manga.1kxun.mobi/api/users/*, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=%22is_av_vip%22%3A.*%3F%2C-%3E%22is_av_vip%22%3A%201%2C
+
+replaceBody = type=http-response, pattern=https://manga.1kxun.mobi/api/users/*, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=%22av_vip_expire_time%22%3A.*%3F%2C-%3E%22av_vip_expire_time%22%3A%201870766006%2C
+
+replaceBody = type=http-response, pattern=https://manga.1kxun.mobi/api/users/*, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=%22vip_expire_time%22%3A.*%3F%2C-%3E%22vip_expire_time%22%3A%201870766006%2C
+
+replaceBody = type=http-response, pattern=https://api.quizlet.com/3.8/users/*, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=%22type%22%3A.*%3F%2C-%3E%22type%22%3A%201%2C
+
+replaceBody = type=http-response, pattern=https://m.samh.xndm.tech/userapi/info/v1/getuserinfo, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=%22isvip%22%3A.*%3F%2C-%3E%22isvip%22%3A1%2C
+
+replaceBody = type=http-response, pattern=https://m.samh.xndm.tech/api/v1/comics/purchase_chapters_diamonds_coin, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=%22msg%22%3A.*%3F%2C-%3E%22msg%22%3A%2C
+
+embycrack = type=http-request, pattern=^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey), script-path=https://raw.githubusercontent.com/zlking02/Emby/main/Script/embycrack.js, timeout=60
+
+replaceBody = type=http-response, pattern=^https:\/\/zh-api\.nebulahoroscope\.com\/api\/v7\/users, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=%22premium%22%3A.*%3Ffalse-%3E%22premium%22%3Atrue
+
+replaceBody = type=http-response, pattern=^https:\/\/zh-api\.nebulahoroscope\.com\/api\/v7\/users, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=%22is_lifetime%22%3A.*%3Ffalse-%3E%22is_lifetime%22%3Atrue
+
