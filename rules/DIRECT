@@ -1,0 +1,333 @@
+#FPT Telecom
+HOST,sapi.fpt.vn,DIRECT
+
+#Lightricks
+#HOST,oregon-api.lightricks.com,DIRECT
+#HOST,virginia-api.lightricks.com,DIRECT
+#HOST,hk-api.lightricks.com,DIRECT
+#HOST,frankfurt-api.lightricks.com,DIRECT
+#HOST,ireland-api.lightricks.com,DIRECT
+#HOST,tokyo-api.lightricks.com,DIRECT
+#HOST,sydney-api.lightricks.com,DIRECT
+#Day One
+HOST,dayone.me,DIRECT
+HOST,dayone.app,DIRECT
+#Face Play
+HOST, api.faceplay.cc, DIRECT
+HOST, aico-api.aiglobalniu.com, DIRECT
+#PLAY TOGETHER BYPASS
+HOST, p2-frontgate-public-23cbd02baba89701.elb.us-east-1.amazonaws.com, DIRECT
+HOST, playtogethermaintenance-0ab8007efff300a8.elb.us-east-1.amazonaws.com, DIRECT
+#Quantumult X bypass
+HOST, activation.crossutility.com, reject
+HOST, quantumult.app, reject
+#Drop
+HOST,api-prod.languagedrops.com,DIRECT
+#IELTS Speaking Assistant
+HOST,dbvirtualeducation.com,DIRECT
+#ButterCam
+HOST,privilege.butterapis.com,DIRECT
+HOST,api4.bybutter.com,DIRECT
+#Meitu
+HOST,h5.xiuxiu.meitu.com,DIRECT
+HOST,api.wallet.meitu.com,DIRECT
+HOST,api.xiuxiu.meitu.com,DIRECT
+#Avatarify
+HOST,api.adapty.io,DIRECT
+#Supper Chinese
+HOST,api.superchinese.com,DIRECT
+#Hello Chinese
+HOST,api3.hellochinese.cc,DIRECT
+#Headspace
+HOST,api.prod.headspace.com,DIRECT
+#LyricsTraining
+HOST,beta.lyricstraining.com,DIRECT
+#Quizlet
+HOST,api.quizlet.com,DIRECT
+#Morpholio Trace - Sketch CAD
+HOST,www.mymorpholio.com,DIRECT
+#U-Dictionary
+HOST,intervip.youdao.com,DIRECT
+#Babilala
+HOST,api.babilala.vn,DIRECT
+#CARROT Weather
+HOST,blooming-forest-98906.herokuapp.com,DIRECT
+HOST,carrotweather.herokuapp.com,DIRECT
+#VCUS
+HOST,api.finance.hw.meitu.com,DIRECT
+#Focos Blacklist
+HOST,focosapp.s3-ap-southeast-1.amazonaws.com,DIRECT
+#Ads Reject
+HOST-SUFFIX,mopub.com, reject
+#Apple Revoke
+HOST,ppq.apple.com,DIRECT
+#Chess.com
+HOST,api.chess.com,DIRECT
+#IMAIOS e-Anatomy
+HOST,www.imaios.com,DIRECT
+#Remini
+#HOST,global.bigwinepot.com,DIRECT
+#Cinemagraph Pro
+HOST,api.flixel.com,DIRECT
+#Alarmy
+HOST,ars.alar.my,DIRECT
+#Voiz FM
+HOST,app.voiz.vn,DIRECT
+#Zaim
+HOST,api.zaim.net,DIRECT
+#SKETCH AR
+HOST,api.sketchar.tech,DIRECT
+#Lang Kingdom
+HOST,api.langkingdom.com,DIRECT
+#Fonos
+HOST,production.fonos.dev,DIRECT
+#FitPlan
+HOST,api2.fitplanapp.com,DIRECT
+#Fonts
+HOST,us-central1-fonts-2b1a7.cloudfunctions.net,DIRECT
+#REFACE
+HOST,api.lifesum.com,DIRECT
+#REFACE
+HOST,api.reface.video,DIRECT
+#Lingo Play
+HOST,api.lingovocabulary.com,DIRECT
+#MERGE Explorer
+HOST,dashboard.mergeedu.com,DIRECT
+#Seven
+HOST,api.sevenworkouts.com,DIRECT
+#BodyFit
+HOST,api.bodybuilding.com,DIRECT
+HOST,subscription-api.bodybuilding.com,DIRECT
+#EWA
+HOST,api.appewa.com,DIRECT
+#Sleep Cycle
+HOST,s.sleepcycle.com,DIRECT
+#Giftr
+HOST,us-central1-giftr-83d83.cloudfunctions.net,DIRECT
+#edjing
+HOST,api-dot-mwm-users.appspot.com,DIRECT
+#Tezza
+HOST,tezza-backend.herokuapp.com,DIRECT
+#polarisoffice
+HOST,api.polarisoffice.com,DIRECT
+#Alight Motion
+HOST,us-central1-alight-creative.cloudfunctions.net,DIRECT
+#Pixomatic
+HOST,api.pixomatic.us,DIRECT
+HOST,pixomatic.herewetest.com,DIRECT
+#iTranslate
+HOST,ssl-api.itranslateapp.com,DIRECT
+#Du recorder
+HOST,bbdd2101-default-recorders-4916-415735771.us-west-2.elb.amazonaws.com,DIRECT
+HOST,donate-api.recorder.duapps.com,DIRECT
+#PocketWorld3D
+HOST,gdcasapi.searona.com,DIRECT
+#AmpMe
+HOST,subscription.ampme.com,DIRECT
+#Restaurant
+HOST,ios-global-restaurant.twomiles.cn,DIRECT
+#Speak&Translate
+HOST,api.speak-translate.com,DIRECT
+#MuscleBooster
+HOST,menscoach-api.asqq.io,DIRECT
+#Eggzy
+HOST,subs.platforms.team,DIRECT
+######################################
+#PXX itunes
+HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+######################################
+#Cercube
+HOST,api.cercube.com,Fake Cydia Tweak
+######################################
+#Codecademy
+HOST,www.codecademy.com,DIRECT
+#Shapr3D
+HOST,prod.api.shapr3d.com,DIRECT
+#IELTS
+HOST,dbvirtualeducation.com,DIRECT
+#ToeicEZ
+HOST,toeicez.com,DIRECT
+#Followly
+HOST,followly.m-mobileapps.com,DIRECT
+#Aivartar
+HOST,aivatar-subscription.sticker.place,DIRECT
+#Romote+
+HOST,nodejs.cherpake.com,DIRECT
+#Falou
+HOST,sub.falou.app,DIRECT
+#STORIO
+HOST,api.apphud.com,DIRECT
+#pixiv
+HOST,app-api.pixiv.net,DIRECT
+HOST,oauth.secure.pixiv.net,DIRECT
+#Sanford Guide
+HOST,naga.sanfordguide.com,DIRECT
+#VideoStart
+HOST,testapps.videostarapp.com,DIRECT
+#Presco
+HOST,presco-api.gotbatu.com,DIRECT
+#Followers
+HOST,api.socialguide.co,DIRECT
+#RETO3D
+HOST,weewungwung.com,DIRECT
+#Simpler
+HOST,simpler.via-mobi.com,DIRECT
+#passwordmanager
+HOST,djit-end.appspot.com,DIRECT
+#chordify
+HOST,chordify.net,DIRECT
+#Rocka
+HOST,api.rockalearning.com,DIRECT
+#Lensa
+HOST,appapi.neuralprisma.com,DIRECT
+#Wattpad
+HOST,api.wattpad.com,DIRECT
+#Funimate
+HOST,api.funimate.com,DIRECT
+#Polarr
+HOST,api.polarr.co,DIRECT
+#   Zing Mp3
+HOST,api.global.mp3.zing.vn,DIRECT
+HOST,api.zingmp3.vn,DIRECT
+#Snap&Trans
+HOST,receipt-validator.herewetest.com,DIRECT
+#Presco Overlay
+HOST,overlay-api.gotbatu.com,DIRECT
+#MoneyLover
+HOST,revoapi.moneylover.me,DIRECT
+HOST,static.moneylover.me,DIRECT
+#Daggerhood
+HOST,api.playond.com,DIRECT
+#Vinkle
+HOST,dupa-api.doupaiapp.com,DIRECT
+#Faded
+HOST,api.madewithfaded.com,DIRECT
+#PlayerXtreme
+HOST,secure.istreamer.com,DIRECT
+#farfaria
+HOST, api.farfaria.com, DIRECT
+#BabyBus
+HOST,pay.babybus.com,DIRECT
+#AutoCAD
+HOST,app.autocad360.com,DIRECT
+#VMonkey
+HOST,www.api.monkeyuni.net,DIRECT
+#   TIKTOK
+HOST,api3-normal-c-lf.amemv.com,DIRECT
+HOST-KEYWORD,h2.tiktokv.com,DIRECT
+#Spendee
+HOST,api.spendee.com,DIRECT
+#Prequel
+HOST,cloudapp.aiarlabs.com,DIRECT
+#Working Copy
+HOST,education.github.com,DIRECT
+#Camscanner
+HOST,api-cs.intsig.net,DIRECT
+#Planner 5D
+HOST,planner5d.com,DIRECT
+#Endel
+HOST,api-production.endel.io,DIRECT
+# Chic Cam
+HOST,chic.mtlab.meitu.com,DIRECT
+# Photoshop
+HOST,lcs-mobile-cops.adobe.io,DIRECT
+# Zing TV
+HOST,api.tv.zing.vn,DIRECT
+# Lich Van Nien 2020 (Lich Viet)
+HOST,api.lichviet.org,DIRECT
+# QIYIVideo
+HOST,intl-i.vip.iqiyi.com,DIRECT
+HOST,intl-passport.iqiyi.com,DIRECT
+# Fing
+HOST,app.fing.com,DIRECT
+# vizmato
+HOST,web.vizmato.com,DIRECT
+# SoloLearn
+HOST,api.sololearn.com,DIRECT
+# Vizzywig2020
+HOST,ec2-52-34-190-224.us-west-2.compute.amazonaws.com,DIRECT
+# MusiXmatch
+HOST,apic.musixmatch.com,DIRECT
+#JibJab
+HOST,origin-prod-phoenix.jibjab.com,DIRECT
+# Termius
+HOST,api.termius.com,DIRECT
+# PDF Expert | Documents
+HOST,license.pdfexpert.com,DIRECT
+# Gyroscope
+HOST,api.gyrosco.pe,DIRECT
+# Kine Master
+HOST,api-kinemaster-assetstore.kinemasters.com,DIRECT
+HOST,api-kinemaster-assetstore.nexstreaming.com,DIRECT
+# YouTube Music
+#HOST,youtubei.googleapis.com,DIRECT
+# Over
+HOST,api.overhq.com,DIRECT
+# Bright
+HOST,engbright.com,DIRECT
+# Ulike
+HOST,commerce-i18n-api.faceu.mobi,DIRECT
+HOST,commerce-i18n-api.faceucam.com,DIRECT
+# Blinkist
+HOST,api.blinkist.com,DIRECT
+# lingokids
+HOST,api.lingokids.com,DIRECT
+# adGuard
+HOST,mobile-api.adguard.com,DIRECT
+# Boom Music
+HOST,apimboom2.globaldelight.net,DIRECT
+# Musicalm
+HOST,www.peacefulsoundsapp.com,DIRECT
+HOST,subscription.aresframework.com,DIRECT
+# Update Nichi
+HOST,mini-hk.bybutter.com,DIRECT
+# VaporCam
+HOST,pay.wecut.com,DIRECT
+# 1Blocker, Loopsie, Yoga Studio, Tacter
+HOST,api.revenuecat.com,DIRECT
+HOST,api.faceapp.io,DIRECT
+# Unfold
+HOST,api.unfold.app,DIRECT
+# Simply Piano
+HOST,asla.joytunes.com,DIRECT
+#NhacCuaTui
+HOST,graph.nhaccuatui.com,DIRECT
+# Elevate
+HOST,accounts.elevateapp.net,DIRECT
+# Photolift
+HOST,pixmagicapp.com,DIRECT
+# BUSUU
+HOST,api.busuu.com,DIRECT
+# Camera360 | MIX
+HOST,bmall.camera360.com,DIRECT
+HOST,entitlements.adobe.io,DIRECT
+HOST,photos.adobe.io,DIRECT
+# Beauty Plus | AirVid
+HOST,api-intl.mr.meitu.com,DIRECT
+# Memrise
+HOST-SUFFIX,api.memrise.com,DIRECT
+# Picsart
+HOST-SUFFIX,api.picsart.com,DIRECT
+HOST-SUFFIX,api.mondlylanguages.com,DIRECT
+# VSCO
+HOST,vsco.co,DIRECT
+# ELSA
+HOST-SUFFIX,pool.elsanow.io,DIRECT
+# Calm
+HOST-SUFFIX,api.calm.com,DIRECT
+HOST-SUFFIX,api.indicative.com,DIRECT
+HOST-SUFFIX,lambda.us-east-1.amazonaws.com,DIRECT
+#Instasize
+HOST,api.instasize.com,DIRECT
+HOST,purchases.ws.pho.to,DIRECT
+HOST,nomo.dafork.com,DIRECT
+HOST,cloudapp.aiarlabs.com,DIRECT
+HOST,buy.itunes.apple.com,DIRECT
+#Infltr
+HOST,us-central1-infltr.cloudfunctions.net,DIRECT
+HOST,owa.videoshowiosglobalserver.com,DIRECT
+HOST,app.algoriddim.com,DIRECT
+#HOST,viva.v21xy.com,DIRECT
+#HOST,viva-asia1.vvbrd.com,DIRECT
+# Mimo
+HOST,api.getmimo.com,DIRECT
