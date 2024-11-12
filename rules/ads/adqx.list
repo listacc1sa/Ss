@@ -2635,8 +2635,8 @@ HOST-SUFFIX,zohostatic.com
 HOST-SUFFIX,zohostatic.eu
 HOST-SUFFIX,zohowebstatic.com
 HOST-SUFFIX,zorocdn.xyz
-DOMAIN-KEYWORD,-files.gitbook.io
-DOMAIN-KEYWORD,-res.cloudinary.com
-DOMAIN-KEYWORD,dsn.algolia.net
-DOMAIN-KEYWORD,vod-adaptive.akamaized.net
-DOMAIN-KEYWORD,web-assets.zendesk
+HOST-KEYWORD,-files.gitbook.io
+HOST-KEYWORD,-res.cloudinary.com
+HOST-KEYWORD,dsn.algolia.net
+HOST-KEYWORD,vod-adaptive.akamaized.net
+HOST-KEYWORD,web-assets.zendesk
