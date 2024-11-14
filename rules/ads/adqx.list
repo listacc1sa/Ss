@@ -1371,7 +1371,6 @@ HOST,sandpack-cdn-staging.blazingly.io,reject
 HOST,sbl.onfastspring.com,reject
 HOST,scdn.clerk.com,reject
 HOST,scdn1.plesk.com,reject
-HOST,scontent.whatsapp.net,reject
 HOST,screenshots.codesandbox.io,reject
 HOST,screenshots.debian.net,reject
 HOST,screenshots.downloadtorrentfile.com,reject
@@ -1379,8 +1378,6 @@ HOST,screenshots.webflow.com,reject
 HOST,scripts.dailymail.co.uk,reject
 HOST,scripts.webeo.com,reject
 HOST,sdata.ndtv.com,reject
-HOST,sdk.qikify.com,reject
-HOST,sdk.snapkit.com,reject
 HOST,sdk.split.io,reject
 HOST,seal-newyork.bbb.org,reject
 HOST,searchanise-ef84.kxcdn.com,reject
