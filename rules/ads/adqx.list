@@ -1592,8 +1592,6 @@ HOST,static.rust-lang.org,reject
 HOST,static.scarf.sh,reject
 HOST,static.scroll.com,reject
 HOST,static.skyassets.com,reject
-HOST,static.snapchat.com,reject
-HOST,static.snaptube.in,reject
 HOST,static.snyk.io,reject
 HOST,static.socratic.org,reject
 HOST,static.solarwinds.com,reject
