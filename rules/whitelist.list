@@ -1,0 +1,41 @@
+# > google stats & ads
+HOST-KEYWORD,adservice,PROXY
+HOST-KEYWORD,googleads,PROXY
+HOST-SUFFIX,googleadservices.com,PROXY
+HOST-SUFFIX,googlesyndication.com,PROXY
+HOST-SUFFIX,googletagmanager.com,PROXY
+HOST-SUFFIX,adservice.google.com,PROXY
+HOST-SUFFIX,doubleclick.net,PROXY
+HOST-SUFFIX,displayads-formats.googleusercontent.com,PROXY
+
+# > Microsoft
+HOST,self.events.data.microsoft.com,PROXY
+
+# > Mate Translate
+HOST-SUFFIX,amplitude.com,PROXY
+
+# > GeoIP API,PROXY
+HOST-KEYWORD,geo,PROXY
+HOST-SUFFIX,ipapi.co,PROXY
+HOST-SUFFIX,ipinfo.io,PROXY
+HOST-SUFFIX,ipgeolocation.io,PROXY
+HOST-SUFFIX,abstractapi.com,PROXY
+HOST-SUFFIX,ipdata.co,PROXY
+HOST-SUFFIX,whoisxmlapi.com,PROXY
+HOST-SUFFIX,whatsmyip.com,PROXY
+HOST-SUFFIX,geoapify.com,PROXY
+HOST-SUFFIX,ifconfig.co,PROXY
+HOST-SUFFIX,ip.gs,PROXY
+HOST-SUFFIX,ipaddress.com,PROXY
+HOST-SUFFIX,ipworld.info,PROXY
+HOST-SUFFIX,ipapi.com,PROXY
+HOST-SUFFIX,ip-api.com,PROXY
+HOST-SUFFIX,my-ip.io,PROXY
+HOST-SUFFIX,ip125.com,PROXY
+HOST-SUFFIX,extreme-ip-lookup.com,PROXY
+HOST-SUFFIX,ip.nf,PROXY
+HOST-SUFFIX,seeip.org,PROXY
+HOST-SUFFIX,whois.pconline.com.cn,PROXY
+HOST-SUFFIX,pv.sohu.com,PROXY
+HOST-SUFFIX,ipwhois.app,PROXY
+HOST-SUFFIX,api.ipstack.com,PROXY
