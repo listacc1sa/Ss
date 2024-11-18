@@ -1,0 +1,93 @@
+vmess://YXV0bzoxOWQwMWE3Mi1iMzBlLTQwZDMtZTg3Yi1kMTYxMTQzNjgwNDBAMTkyLjIxMC4yMzEuMjE3Ojgw?remarks=%F0%9F%87%BA%F0%9F%87%B8%20United%20States&obfsParam=whatsapp.com&path=/aa&obfs=websocket&allowInsecure=1&alterId=0
+trojan://xjN4xcuPGg@155.248.205.39:45601?allowInsecure=1&peer=whatsapp.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vmess://YXV0bzpiODMxMzgxZC02MzI0LTRkNTMtYWQ0Zi04Y2RhNDhiMzA4MTFAMTA0LjE2OC40My4zNjo5NDQ0?remarks=%F0%9F%87%BA%F0%9F%87%B8%20United%20States&obfsParam=v2p-us-d.ywandy.top&path=/blog&obfs=websocket&tls=1&peer=whatsapp.com&allowInsecure=1&alpn=http/1.1&alterId=0
+vmess://YXV0bzo2Yzc2NGEwMy1iYjFhLTRiYzYtYmFjYS00NTI0NTNmY2UxYWVAMi41OC44Ny4yMjE6MTQ1NTU?remarks=%F0%9F%87%BA%F0%9F%87%B8%20United%20States&path=/&obfs=websocket&tls=1&peer=whatsapp.com&allowInsecure=1&alpn=http/1.1&alterId=0
+trojan://xjN4xcuPGg@155.248.205.39:45601?allowInsecure=1&peer=whatsapp.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vmess=cfcdn.fxu.asia:80, method=aes-128-gcm, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=AS31898ORACLE_CORPORATION 
+vmess=hsj.lbxjc.online:80, method=aes-128-gcm, password=afe67186-1ada-4b72-85c6-e6424b82f48e, obfs=ws, obfs-host=zjg.wijs1jdjwllpw38sdm.shop, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=芝加ORACLE_CORPORATION
+vmess=hsj.lbxjc.online:80, method=aes-128-gcm, password=afe67186-1ada-4b72-85c6-e6424b82f48e, obfs=ws, obfs-host=shsxb.wijs1jdjwllpw38sdm.shop, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=圣何塞ORACLE_CORPORATION
+vmess=2606:4700:3035::6815:59db:2086, method=chacha20-ietf-poly1305, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=Relay_🇺🇸US-🇺🇸US_318oracle
+vmess=2a09:8280:1:4e0a:6cbc:f7ad:a162:7663:443, method=chacha20-ietf-poly1305, password=35379219-6535-4f2e-a4fe-3e44f61e0eee, obfs=wss, obfs-host=vc.fly.dev, obfs-uri=/vc, tls-verification=false, tls-host=vc.fly.dev, fast-open=false, udp-relay=false, aead=false, tag=United States ⁷
+vmess=35.199.164.204:54860, method=chacha20-ietf-poly1305, password=83e6a3eb-17d1-4a45-8679-ba313fb45565, obfs=ws, obfs-uri=/83e6a3eb, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 VM-WS-NA 🇺🇸 US-35.199.164.204:54860
+vmess=107.148.207.249:48712, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇺🇸US_PEH_TECH
+vmess=65.75.192.48:37543, method=chacha20-ietf-poly1305, password=4674cbfc-f9ab-4c47-eec1-ba0a98ae370e, obfs=ws, obfs-uri=/67jfsf, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 VM-WS-NA 🇺🇸 US-65.75.192.48:37543
+
+trojan=152.70.115.209:45800, password=xjN4xcuPGg55, over-tls=true, tls-verification=false, tls-host=h.522226.xyz, fast-open=false, udp-relay=false, tag=🇺🇸 TR-TCP-TLS 🇺🇸 US-oracle
+
+shadowsocks=52.12.87.156:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 Amazon 🇺🇸 US-52.12.87.156:443
+
+shadowsocks=23.95.68.112:16899, method=aes-128-gcm, password=Yc2CtrIz8L, fast-open=false, udp-relay=false, tag=🇺🇸 SS-HOSTPAPA
+
+shadowsocks=54.69.144.178:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 SS-amazon
+
+shadowsocks=54.213.228.61:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 SS-TCP-NA 🇺🇸 Amazon 
+
+shadowsocks=107.155.57.51:8080, method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, fast-open=false, udp-relay=false, tag=🇺🇸 SS-ZENLAYER
+
+shadowsocks=54.187.244.22:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 SS-AMAZON
+
+trojan=18.205.15.226:22222, password=telegram-id-directvpn, over-tls=true, tls-verification=false, tls-host=trojan.burgerip.co.uk, fast-open=false, udp-relay=false, tag=🇺🇸US29 Amazon
+
+
+shadowsocks=52.12.87.156:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸US-52.12.87.156-0909
+vmess=cfcdn.fxu.asia:80, method=chacha20-ietf-poly1305, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=🇺🇲 美国 CloudFlare节点 17
+vmess=s2.db-link02.top:2086, method=chacha20-ietf-poly1305, password=ac9c5899-29ee-3139-a2ae-b5803a68524f, obfs=ws, obfs-host=100-36-256-124.s2.db-link02.top, obfs-uri=/dabai.in104.16.98.32, fast-open=false, udp-relay=false, aead=true, tag=🇺🇲 美国 CloudFlare节点 32
+vmess=shs.xiaoqi666.xyz:2086, method=chacha20-ietf-poly1305, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=🇺🇲 美国 CloudFlare节点 36
+vmess=142.4.108.140:38007, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, obfs=wss, obfs-uri=/path/081412110418, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=🇺🇲 美国 加利福尼亚州圣何塞PEG TECH
+vmess=s2.db-link02.top:2095, method=chacha20-ietf-poly1305, password=1aea9bb2-de26-313c-b35c-8295e620c95b, obfs=ws, obfs-host=100-111-231-156.s2.db-link02.top, obfs-uri=/dabai.in172.67.37.120, fast-open=false, udp-relay=false, aead=true, tag=🇺🇲 美国 CloudFlare节点 185
+vmess=198.41.209.70:8880, method=chacha20-ietf-poly1305, password=ac9c5899-29ee-3139-a2ae-b5803a68524f, obfs=ws, obfs-host=100-68-141-29.s2.db-link02.top, obfs-uri=/dabai.in104.19.242.195, fast-open=false, udp-relay=false, aead=true, tag=🇺🇲 美国 CloudFlare节点 205
+vmess=172.67.165.53:2086, method=chacha20-ietf-poly1305, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=🇺🇲 美国 oracle节点 213
+trojan=3.13.31.99:22222, password=telegram-id-directvpn, over-tls=true, tls-verification=false, tls-host=trojan.burgerip.co.uk, fast-open=false, udp-relay=false, tag=🇺🇲 美国 Amazon EC2服务器
+shadowsocks=52.12.87.156:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸_US_美国 ⁹
+shadowsocks=54.213.228.61:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸_US_美国 ⁸
+vless=172.67.27.46:80, method=none, password=b5cdabf0-e048-4fa2-90da-9379b1a4926e, obfs=ws, obfs-host=cc.ailicf.us.kg, obfs-uri=/b5cdabf0-e04, fast-open=false, udp-relay=false, tag=🇺🇸_US_美国 ²
+shadowsocks=54.191.9.106:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸_US_美国 ⁷
+
+vless=104.26.14.148:443, method=none, password=3761c1e7-771b-48ba-9d5b-f214d882d2a9, obfs=wss, obfs-host=53331168005383295401796650654415.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou, obfs-uri=/V2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS, tls-verification=false, fast-open=false, udp-relay=false, tag=Vless | @configv2rayng | 🏴‍☠️   ⁰ᶠ⁶⁵ᵉ²⁷⁵
+vless=92.118.228.154:443, method=none, password=8250d638-45df-41fa-b06f-160d1cb1de0c, obfs=wss, obfs-host=abc.vpneee.top, obfs-uri=/YnqGMcAt/, tls-verification=false, fast-open=false, udp-relay=false, tag=💰💥🇺🇸 US 92.118.228.154 ◈ ws:443 ◈ Sriyaan Technologies / Sriyaan technology ◈ 26f8c ¹
+vless=104.243.33.192:80, method=none, password=ab182450-da9e-4976-b63f-4f8f3667edd9, obfs=ws, obfs-host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, obfs-uri=/, fast-open=false, udp-relay=false, tag=💰🇺🇸 US 104.243.33.192 ◈ ws:80 ◈ ReliableSite.Net ◈ 96f44
+vmess=2607:f130:0:134::9:50100,method=chacha20-ietf-poly1305,password=7748cec0-5164-4c52-87cf-55758d80fdaf,obfs=http,obfs-uri=/,aead=true,tag=🇺🇸 US 74.48.4.5 ◈ tcp:50100 ◈ Multacom Corporation / TELUS Communications Inc ◈ 7b2e9
+vmess=2607:f130:0:134::9:50100,method=chacha20-ietf-poly1305,password=7748cec0-5164-4c52-87cf-55758d80fdaf,obfs=http,obfs-uri=/,obfs-host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc,aead=true,tag=💰🇺🇸 US 74.48.4.5 ◈ tcp:50100 ◈ Multacom Corporation / TELUS Communications Inc ◈ 2bcb0
+vmess=2607:f130:0:134::9:50100,method=chacha20-ietf-poly1305,password=7748cec0-5164-4c52-87cf-55758d80fdaf,obfs=http,obfs-uri=/,obfs-host=2607:f130:0:134::9,aead=true,tag=🇺🇸 US 74.48.4.5 ◈ tcp:50100 ◈ Multacom Corporation / TELUS Communications Inc ◈ 96c6e
+vmess=2607:f130:0:134::9:50100,method=chacha20-ietf-poly1305,password=7748cec0-5164-4c52-87cf-55758d80fdaf,obfs=http,obfs-uri=/,obfs-host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc,aead=true,tag=💰🇺🇸 US 74.48.4.5 ◈ tcp:50100 ◈ Multacom Corporation / TELUS Communications Inc ◈ ebccc
+shadowsocks=54.69.144.178:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸_定制专线：@Alin006Bot ²⁹
+shadowsocks=52.12.87.156:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸_定制专线：@QS00008 ²⁵
+shadowsocks=34.209.103.254:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸_定制专线：@Alin006Bot ²⁶
+trojan=scm.zarelayv1.com:39874, password=2baa2d43-b564-3b1f-92c7-c6fa1ff7e0a2, over-tls=true, tls-verification=false, tls-host=us-katt.zodport.com, fast-open=false, udp-relay=false, tag=🇺🇸 US-99.144.123.229-39874
+shadowsocks=107.155.57.51:8080, method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, fast-open=false, udp-relay=true, tag=🇺🇸 US-107.155.57.51-8080
+shadowsocks=107.155.57.51:8080, method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, fast-open=false, udp-relay=true, tag=🇺🇸US-107.155.57.51-8080
+shadowsocks=34.209.103.254:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-34.209.103.254-443
+shadowsocks=54.213.247.125:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-54.213.247.125-443
+shadowsocks=44.243.115.246:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-44.243.115.246-443
+shadowsocks=54.213.247.125:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-54.213.247.125-443 2
+shadowsocks=54.68.160.24:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-54.68.160.24-443 2
+vmess=35.199.164.204:54860, method=aes-128-gcm, password=83e6a3eb-17d1-4a45-8679-ba313fb45565, obfs=ws, obfs-uri=/83e6a3eb, fast-open=false, udp-relay=false, aead=true, tag=🇺🇲 US_1610
+vmess=192.210.231.217:80, method=aes-128-gcm, password=19d01a72-b30e-40d3-e87b-d16114368040, obfs=ws, obfs-uri=/aa, fast-open=false, udp-relay=false, aead=true, tag=🇺🇲 Relay_🇺🇸US-🇺🇸US_1592
+vmess=2607:f130:0:134::9:50100, method=aes-128-gcm, password=7748cec0-5164-4c52-87cf-55758d80fdaf, obfs=http, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=⚠︎ ⚠︎ ⚠︎ 🇺🇸 US 74.48.4.5 ◈ tcp:50100 ◈ Multacom Corporation / TELUS Communications Inc ◈ 7b2e9
+vmess://YXV0bzphZmU2NzE4Ni0xYWRhLTRiNzItODVjNi1lNjQyNGI4MmY0OGVAaHNqLmxieGpjLm9ubGluZTo4MA?remarks=%E7%BA%BD%E7%BA%A6&obfsParam=niuyue.wijs1jdjwllpw38sdm.shop&path=/&obfs=websocket&alterId=0
+vmess://YXV0bzphZmU2NzE4Ni0xYWRhLTRiNzItODVjNi1lNjQyNGI4MmY0OGVAaHNqLmxieGpjLm9ubGluZTo4MA?remarks=%E8%8A%9D%E5%8A%A0%E5%93%A5&obfsParam=zjg.wijs1jdjwllpw38sdm.shop&obfs=websocket&alterId=0
+trojan://e6b21899-310b-4d17-9787-1bda2599f7eb@us-full.privateip.net:443#trojan-tcp
+vmess=shs.xiaoqi666.xyz:2086, method=aes-128-gcm, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=RELAY-104.21.89.219-0711
+vmess=172.67.165.53:2086, method=aes-128-gcm, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=RELAY-172.67.165.53-0827
+vmess=172.67.165.53:2086, method=chacha20-ietf-poly1305, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, fast-open=false, udp-relay=true, aead=true, tag=🇺🇸 [VMess] 🇺🇸 美国 CloudFlare节点 9
+shadowsocks=92.118.112.111:18622, method=chacha20-ietf-poly1305, password=gmYDzSG6K35s8b19oY4fGz, fast-open=false, udp-relay=true, tag=🇺🇸 US🇺🇸 | 92.118.112.111-18622 | 14.59ms
+shadowsocks=44.202.26.59:443, method=chacha20-ietf-poly1305, password=lQHuqev0bDeSuxSCL, fast-open=false, udp-relay=true, tag=🇺🇸 US🇺🇸 | 44.202.26.59-443 | 25.9ms
+shadowsocks=92.118.112.111:18622, method=chacha20-ietf-poly1305, password=gmYDzSG6K35s8b19oY4fGz, fast-open=false, udp-relay=true, tag=🇺🇸 US🇺🇸 | 92.118.112.111-18622 | 14.27ms
+shadowsocks=172.245.180.193:16899, method=aes-128-gcm, password=Yc2CtrIz8L, fast-open=false, udp-relay=true, tag=🇺🇸 US🇺🇸 | 172.245.180.193-16899 | 20.99ms
+shadowsocks=92.118.112.111:18622, method=chacha20-ietf-poly1305, password=gmYDzSG6K35s8b19oY4fGz, fast-open=false, udp-relay=true, tag=🇺🇸 US🇺🇸 | 92.118.112.111-18622 | 14.23ms
+vmess=107.174.35.170:8880, method=aes-128-gcm, password=4b5e4565-322f-4223-a891-78a84f189726, obfs=ws, obfs-host=us-ccs.yuji2022.eu.org, obfs-uri=/XSjeg73o6ZdsheahCb5JG, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 United States - Buffalo 🌎 VM-WS-NA 4⃣
+vless=104.243.33.192:80, method=none, password=ab182450-da9e-4976-b63f-4f8f3667edd9, obfs=ws, obfs-host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, obfs-uri=/, fast-open=false, udp-relay=false, tag=🇺🇸 United States - Piscataway 🌎 VL-WS-NA 4⃣ ²
+
+shadowsocks=194.116.173.21:9038, method=aes-256-cfb, password=gYCYXfkUQEs2TaJQ, fast-open=false, udp-relay=false, tag=🇺🇸 United States - Secaucus 🌎 SS-TCP-NA 4⃣
+vmess=74.119.194.66:2096, method=aes-128-gcm, password=1887abb3-2c28-4c54-9b3f-d776b3c31662, obfs=wss, obfs-host=us1-vmess.greenssh.xyz, obfs-uri=/vmess, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 United States - Secaucus 🌎 VM-WS-TLS 4⃣
+vmess=74.119.194.66:2083, method=aes-128-gcm, password=1887abb3-2c28-4c54-9b3f-d776b3c31662, obfs=wss, obfs-host=us1-vmess.greenssh.xyz, obfs-uri=/vmess, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 United States - Secaucus 🌎 VM-WS-TLS 4⃣ ¹
+vmess=74.119.194.66:8443, method=aes-128-gcm, password=1887abb3-2c28-4c54-9b3f-d776b3c31662, obfs=wss, obfs-host=us1-vmess.greenssh.xyz, obfs-uri=/vmess, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 United States - Secaucus 🌎 VM-WS-TLS 4⃣ ²
+vmess=74.119.194.66:2053, method=aes-128-gcm, password=1887abb3-2c28-4c54-9b3f-d776b3c31662, obfs=wss, obfs-host=us1-vmess.greenssh.xyz, obfs-uri=/vmess, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 United States - Secaucus 🌎 VM-WS-TLS 4⃣ ³
+vmess=74.119.194.66:2082, method=aes-128-gcm, password=1887abb3-2c28-4c54-9b3f-d776b3c31662, obfs=ws, obfs-host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, obfs-uri=/vmess, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 United States - Secaucus 🌎 VM-WS-NA 4⃣
+vmess=74.119.194.66:8080, method=aes-128-gcm, password=1887abb3-2c28-4c54-9b3f-d776b3c31662, obfs=ws, obfs-host=us1-vmess.greenssh.xyz, obfs-uri=/vmess, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 United States - Secaucus 🌎 VM-WS-NA 4⃣ ¹
+shadowsocks=45.55.2.232:14293, method=aes-256-cfb, password=2170f8, fast-open=false, udp-relay=false, tag=🇺🇸 United States - San Francisco 🌎 SS-TCP-NA 4⃣
+trojan=104.207.155.153:443, password=wkmY1R4EcP, over-tls=true, tls-verification=false, tls-host=z-v2-003273.kailib.com, fast-open=false, udp-relay=false, tag=🇺🇸 United States - Los Angeles 🌎 TR-TCP-TLS 4⃣ ¹
+trojan=45.76.240.126:443, password=wkmY1R4EcP, over-tls=true, tls-verification=false, tls-host=z-v2-002778.kailib.com, fast-open=false, udp-relay=false, tag=🇺🇸 United States - Kent 🌎 TR-TCP-TLS 4⃣
+vmess=74.48.4.5:50100, method=aes-128-gcm, password=7748cec0-5164-4c52-87cf-55758d80fdaf, obfs=http, obfs-host=2607:f130:0:134::9, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 United States - Los Angeles 🌎 VM-TCP-NA 4⃣ ⁷
+shadowsocks=15.204.87.225:7002, method=aes-256-gcm, password=RexnBgU7EV5ADxG, fast-open=false, udp-relay=false, tag=🇺🇸 United States - Hillsboro 🌎 SS-TCP-NA 4⃣ ⁵
+vmess=74.48.4.5:50100, method=aes-128-gcm, password=7748cec0-5164-4c52-87cf-55758d80fdaf, obfs=http, obfs-host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 United States - Los Angeles 🌎 VM-TCP-NA 4⃣ ⁹
