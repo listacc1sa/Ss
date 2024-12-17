@@ -15,7 +15,7 @@ var objc = JSON.parse($response.body);
     "reachedAppRating" : true,
     "memberShipRights" : {
       "term" : "GIVEAWAY",
-      "expiredtime" : "1734564600",
+      "expiredtime" : "1883639265",
       "gameCredit" : 10,
       "userRoleType" : "CREATOR",
       "starttime" : "1734391800"
