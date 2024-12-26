@@ -1,0 +1,206 @@
+[rewrite_remote]
+https://github.com/Former-Years/Surge/raw/refs/heads/main/Module/Script.sgmodule, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Ansned/use-self/9eabdf612085ccbdac958a60cdb1739d063fd52e/Rewrite/Loon/heji.plugin#L30, update-interval=172800, opt-parser=true, enabled=false
+21B3F4DD88DB.snippet, update-interval=172800, opt-parser=true, enabled=true
+839EAC2F312C.snippet, update-interval=172800, opt-parser=true, inserted-resource=true, enabled=true
+https://gist.github.com/sultan1sa/59e2fe91520a60e927bf6f244f121172/raw/7cad337f5a7951122791753e581b6a87c8ca4e91/Hb, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/tkzc11/Surge/main/Reddit_Premium.sgmodule, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Kingsmanvn-Official/Quantumult-X/main/rewrite/anti-revoke.conf, update-interval=-1, opt-parser=true, enabled=true
+https://github.com/DualSubs/YouTube/releases/latest/download/DualSubs.YouTube.snippet, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/xOS/Config/refs/heads/Her/Module/iOS/GeneralRules.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/czy13724/Quantumult-X/main/Loon/Github.plugin, tag=GitHub 1.142.1, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Asher233/DIY/56ae5bd9bcd14e536b9a5391ec4c5dada77db960/Script/Receipt.js, update-interval=-1, opt-parser=true, enabled=true
+https://cdn.statically.io/gh/lailaazmi/Lailaazmi/master/Plugin/spotify.plugin, tag=Spotify Premium, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Yu9191/Rewrite/main/itunes/tubepod.js, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/DungHoang120401/Nobita/208017d24f6b82feab5a73eeb841e4bb3ddf5acd/Locket_Gold.sgmodule, tag=Locket_Gold.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/DualSubs/YouTube/releases/latest/download/YouTube.snippet, tag=DualSubs, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sultan1sa/quanx/refs/heads/main/Rewrite/YouTube.conf, tag=YouTube AR&download, update-interval=-1, opt-parser=true, enabled=true
+EF762C18E851.snippet, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/osinx/Script/main/vip/youtube.downlaod.conf, tag=youtube.downlaod.conf, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/YouTube%E7%BF%BB%E8%AF%91.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+ime.snippet, tag=ime, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Neurogram-R/Quantumult-X/main/snippet/YouTube-Dualsub.snippet, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/dongdongtang/myrules/72102bac1abf223a1eba22955c373c7aadd89e1c/shadowrocket/Script.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/github.plugin, tag=GitHub 1.142.1, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Spotify%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule, tag=Spotify, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Reddit%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule, tag=REDDIT, update-interval=-1, opt-parser=true, enabled=true
+AllinOneRewrite.snippet, tag=AllinOneRewrite, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+https://raw.githubusercontent.com/Neurogram-R/Quantumult-X/main/snippet/Dualsub.snippet, tag=Neurogram-R//Dualsub.snippet, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Mike-offers/Rewrite/refs/heads/master/QuantumultX/AutoUnlockRevenuecat.js, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sultan1sa/Rewrite/refs/heads/main/Revenuecat.js, tag=✅, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+https://raw.githubusercontent.com/SukkaW/Surge/refs/heads/master/Modules/sukka_enhance_adblock.sgmodule, tag=Enhance Better ADBlock for Surge, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Marcio2536/MySurge/refs/heads/main/Module/YouTube.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sultan1sa/Rewrite/refs/heads/main/sgmodule/YouTube%E2%9C%A8.sgmodule, tag=YouTube ARABIC, update-interval=-1, opt-parser=true, enabled=false
+1415FB4597FF.snippet, tag=Duckduckgo search, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/xiandu999-yu/QuantumultX/refs/heads/master/Myreject.con, tag=Myreject🚫, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/bigdargon/hostsVN/raw/f1a5d25b30f7280ba6852b4f42b54b00edc0e43d/option/hostsVN-quantumultX-rewrite.conf, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/chiupam/surge/06697a4c421981d3cb2588df4789804f35770591/Surge/YouTubeAds.18.49.3.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/YanbingJiang/Shadowrocket_diy_rules/refs/heads/main/Modules/YT-Premium-V1.module, tag=YT-Premium-V1.module, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/QXPublic/MyUtilize/main/Rewrite/Surge/YoutubeAds.sgmodule, tag=QXPublic YouTubeADS, update-interval=-1, opt-parser=true, enabled=false
+BingAIforSAfari.snippet, tag=YouTube premium, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sultan1sa/Rewrite/refs/heads/main/Revenuecat-unlocked/unlocked.js, tag=unlocked REVENUECAT 🐈, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+https://github.com/Yumega/max/raw/refs/heads/master/ios/VPN/SDR/module/Youtube.module, tag=YouTube, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.qx.conf, tag=Script.hub, update-interval=-1, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/sub-store-org/Sub-Store/refs/heads/master/config/QX.snippet, tag=Sub.store, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/lailaazmi/Lailaazmi/55977f360fd987b6cbbe89f60ff0337b13f9ec63/Json/deezer.hifi.js, update-interval=-1, opt-parser=true, enabled=false
+MultiSearch.snippet, tag=MultiSearch, update-interval=-1, opt-parser=true, enabled=true
+96E0AE34B17D.snippet, tag=Revenuecat.conf, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/osinx/Script/refs/heads/main/vip/youtube.conf, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/osinx/Script/refs/heads/main/vip/revenuecat.conf, tag=Revenuecat✅, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/DualSubs/YouTube/releases/download/v1.5.3/YouTube.snippet, tag=DualSubs, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+Universalrevenuecat.snippet, tag=Universalrevenuecat✅, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Yumega/max/refs/heads/master/ios/VPN/SDR/module/Youtube.module, tag=YouTube📺, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/refs/heads/master/QuantumultX/Rewrite/YouTube.snippet, tag=YouTube premium, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/DualSubs/YouTube/releases/download/v1.5.3/YouTube.sgmodule, tag=DualSubs🔠, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/limbopro/Adblock4limbo/raw/refs/heads/main/QuantumultX/rewrite/YouTubeAds.conf, tag=Adblock4limbo/YouTubeAds📺, update-interval=-1, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/SukkaW/Surge/master/Modules/sukka_enhance_adblock.sgmodule, tag=🚫sukka_enhance_adblock.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/huanhutlinh/Surge-LK/refs/heads/new/modules/Buy-itunes.sgmodule, tag=Buy-itunes.sgmodule, update-interval=-1, opt-parser=true, enabled=true
+10313B928137.snippet, tag=YouTube premium for, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/Mike-offers/Rewrite/raw/refs/heads/master/QuantumultX/AutoUnlockRevenuecat.js, tag=AutoUnlockRevenuecat🐈, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/FreedomNodes/vpn-script/main/src/surge/SoundCloud/modules/SoundCloudGo.sgmodule, tag=SoundCloud+, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Mike-offers/Rewrite/refs/heads/master/QuantumultX/ChatOnAI.js, tag=chaton ai, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Ender-Wang/YouTubeAds-PiP-BackgroundPlay/main/YouTubeAds.conf, tag=YouTube ADS, update-interval=-1, opt-parser=true, enabled=false
+4CCF7B8E231A.snippet, tag=10Mail apphud, update-interval=-1, opt-parser=true, enabled=true
+test.snippet, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/DungHoang120401/Nobita/Main/All_In_One.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/QXPublic/MyUtilize/raw/refs/heads/main/Rewrite/Quantumlutx/Chat-Smith.js, tag=chat-smith, update-interval=-1, opt-parser=true, enabled=true
+https://whatshub.top/rewrite/youtube.conf, tag=YouTube mus📺, update-interval=-1, opt-parser=false, enabled=false
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Yarmukhamedov/mitm/refs/heads/main/All-In-One.snippet, tag=Revenuecat Yarmukhamedov, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/tkzc11/QX-Rules/main/Reddit_Premium.js, tag=Reddit_Premium, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/sultan1sa/Rewrite/refs/heads/main/Revenuecat-unlocked/Revshadowrocket.module, tag=Revenuecat loon, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sultan1sa/quanx/refs/heads/main/Rewrite/AllinOneRewrite.conf, tag=Revenuecat🐈ALL, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Yu9191/Rewrite/main/aimirror.js, tag=AI MIRROR, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/komo1iddin/quantumultx-scripts/main/conf/novachat.conf, tag=novachat, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/komo1iddin/surge-modules/89c33b7d12dd7f2007710213a49dde113e93d92e/modules/revenuecat.module, tag=Revenuecat/komo1iddin, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/NSRingo/TestFlight/releases/latest/download/TestFlight.snippet, tag= iRingo: ✈ TestFlight✈️, update-interval=-1, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js, tag=Testflight account ✈️账户管理脚本✈️, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/sultan1sa/Rewrite/refs/heads/main/SoundCloud/SoundCloud.sgmodule, tag=SoundCloud+, update-interval=-1, opt-parser=true, enabled=true
+https://hub.nange.cn/Script/GitHub/Education.js, tag=GitHub/Education, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Jason6111/shadowrocket-module/main/AD/YouTubeBeta.module, tag=YouTube, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Jason6111/shadowrocket-module/refs/heads/main/QuantumultX/AD/YouTube.conf, tag=YouTube, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Yumega/max/master/ios/VPN/SDR/module/Youtube.module, tag=YouTube, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+A342212EBC8F.snippet, tag=chat Uncensored 🕶️, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/axtyet/Luminous/refs/heads/main/chxm1023/Rewrite/DeepFaker.js, tag=DeepFaker, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/FreedomNodes/vpn-script/main/src/surge/Youtube/modules/youtube-ads.sgmodule, tag=YouTube📺ADS, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/youtube.snippet, tag=YouTube📺, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/DungHoang120401/Nobita/208017d24f6b82feab5a73eeb841e4bb3ddf5acd/All_In_One.sgmodule#L26, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/ffddh/Tool/raw/refs/heads/main/Repository/KeLee/Tool/QuantumultX/Rewrite/TestFlight.snippet, tag=TESTFLIGHT ✈️, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/DungHoang120401/Nobita/208017d24f6b82feab5a73eeb841e4bb3ddf5acd/All_In_One.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+1AA44C50A632.snippet, tag=itunes apphud, update-interval=-1, opt-parser=true, enabled=true
+23BE69E0D03F.snippet, tag=Api.revenuecat.com 🐈‍⬛🐈required, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Mike-offers/Rewrite/master/QuantumultX/DreamFace.js, tag=Dreamface, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/TPCTPCTPC/Adblock-gist/96f8b948199a88177600859178956d33683b4549/Module/YouTube_Tweaks.sgmodule, tag=/YouTube_Tweaks📺, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/aa75017730/Surge/2947baad4189ea774235ae83108cc2b966b42e9a/task/Notability.sgmodule, tag=Notability✏️, update-interval=-1, opt-parser=true, enabled=true
+yy.snippet, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Byronetyrone/Surgeconf/refs/heads/main/Egerndeez.conf, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/thebestkyle323/Quantumult-x/main/rhj.js, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Yarmukhamedov/mitm/refs/heads/main/snippets/iTunes.snippet, tag=itunes, update-interval=-1, opt-parser=true, enabled=true
+https://gist.githubusercontent.com/chankanzu/181ac6fff299c9c74020649053007a07/raw/bf9f41887037e1706923881d5516b3bac5eb4cec/Fake_Vip.txt, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Yu9191/Rewrite/main/Revenuecat.js, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/czy13724/Quantumult-X/main/scripts/AlohaVPNbrowser.js, update-interval=-1, opt-parser=true, enabled=false
+my-revenucat.snippet, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/githubdulong/Script/f20f97d91defddd46f1db15ce28e0c6a06bbe672/Surge/Revenuecat.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+30209E763854.snippet, tag=adapty, update-interval=-1, opt-parser=true, enabled=true
+https://github.com/NSRingo/GeoServices/releases/latest/download/Location.snippet, tag=📍location, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf, tag=Boxjs.com📦, update-interval=-1, opt-parser=true, enabled=true
+https://github.com/NSRingo/Siri/releases/latest/download/Siri.snippet, tag=iRingo: ⭕ Siri, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/huanhutlinh/Surge-LK/new/modules/Buy-itunes.sgmodule, tag=ITUNES_BUY, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/mist-whisper/QuanX/refs/heads/master/Rewrites/Youtube.snippet, tag=YOUTUBE📺, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/Repcz/Tool/raw/49094c89246bdd1f0bc4c54e5474e10b9ea746b8/Surge/Module/NoAds/YouTube.sgmodule, tag=YouTube 📺, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sooyaaabo/Loon/main/Plugin/iTunes.plugin, tag=ALL ITUNES🔓, update-interval=-1, opt-parser=true, enabled=false
+http://script.hub/file/_start_/https://raw.githubusercontent.com/sultan1sa/LOON/refs/heads/main/plugin/Egerndeez.plugin/_end_/Egerndeez.sgmodule?type=loon-plugin&target=surge-module&del=true, tag=egern 🐿️, update-interval=-1, opt-parser=true, enabled=false
+http://script.hub/file/_start_/http://local.text/_end_/local.sgmodule?type=qx-rewrite&target=surge-module&del=true&localtext=%23!name%3DUnlock%20Any%20Revenuecat%0A%23!desc%3DAuto%20All%20Revenuecat%0A%5BMITM%5D%0Ahostname%20%3D%20api.revenuecat.com%0A%0A%5BScript%5D%0AAutoRC%3Dtype%3Dhttp-response%2Cscript-path%3D%20https%3A%2F%2Fraw.githubusercontent.com%2FChocolatefluffy%2Fchocolate%2Fmain%2Frcauto.js%2Cpattern%3D%20%5Ehttps%3A%5C%2F%5C%2Fapi%5C.revenuecat%5C.com%5C%2F.%2B%5C%2F(receipts%24%7Csubscribers%5C%2F%5B%5E%2F%5D%2B%24)%2Cmax-size%3D131072%2Crequires-body%3Dtrue%2Ctimeout%3D20%2Cscript-update-interval%3D0%2Cdebug%3Dfalse%2Cenable%3Dtrue, tag=🐈‍⬛🐈🐈‍⬛🐈, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/afengye/QX/main/qnjys.js, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/baiji520/All-In-One/raw/c348613641d74e46e5de51d10c691fa35f8dc7dd/Surge/MoKuai.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Yarmukhamedov/mitm/main/snippets/Revenuecat.snippet, tag=Revenuecat🐈, update-interval=-1, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/sultan1sa/Rewrite/main/chatUncensored.js, tag=chat Uncensored, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Yarmukhamedov/mitm/6367ad8094cb182e68201920204da8e0df35ad39/modules/Revenuecat.txt, tag=Revenuecat🐈, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Alpsli/Surge/efbe9e7246de52e20e08dc5e5875bf83e2d4c900/module/Revenuecat.conf, tag=Revenuecat🐈, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Yarmukhamedov/mitm/6367ad8094cb182e68201920204da8e0df35ad39/snippets/iTunes.snippet, tag=ITUNES BUY, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sultan1sa/Rewrite/main/Revenuecat-unlocked/AUTOrevenue.js, tag=Revenuecat🐈-unlocked/AUTOrevenue.js, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sultan1sa/Script-conf/main/egern/egern, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+8A5090008F4D.snippet, tag=Egerndeez🐻, update-interval=-1, opt-parser=true, enabled=false
+AllinOneR.snippet, tag=AllinOneSultan, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Rnik666/YJTJS/main/AIBot.js, tag=AI BOY, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/sultan1sa/Rewrite/main/all/loon/Revenuecat.plugin, tag=SLR, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+Tg外链跳转重定向.snippet, tag=Tg外链跳转重定向, update-interval=-1, opt-parser=true, enabled=true
+至Swiftgram.snippet, tag=至Swiftgram, update-interval=-1, opt-parser=true, enabled=false
+YouTube.Enhance.sgmodule.snippet, tag=YouTube.Enhance.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+18AC8453270E.snippet, tag=qsearch 1, update-interval=-1, opt-parser=true, enabled=false
+2646203A3478.snippet, tag=XSEARCH, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/hientt53/surge/f35cf99b9ec5dc4f222609faea1c415e04d302e3/modules/Truecaller.sgmodule, tag=TRUECALLER, update-interval=-1, opt-parser=true, enabled=true
+Unlock_Trace.snippet, tag=Unlock Trace, update-interval=-1, opt-parser=true, enabled=false
+B02718508346.snippet, tag=YOUTUBE📺字幕翻译语言:ar, update-interval=-1, opt-parser=true, enabled=false
+search.snippet, tag=XSEARCH, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/komo1iddin/surge-modules/raw/89c33b7d12dd7f2007710213a49dde113e93d92e/modules/revenuecat.module, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/Script-Hub-Org/Script-Hub/raw/main/modules/script-hub.qx.conf, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Yarmukhamedov/mitm/main/modules/Revenuecat.txt, tag=Revenuecat #!🐈‍⬛Subscription needed, update-interval=-1, opt-parser=true, enabled=false
+95A96CC5582C.snippet, tag=apphud, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sultan1sa/Revenuecat/main/generation/evoai/chatUncensored.js, tag=chat Uncensored😎, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+https://raw.githubusercontent.com/RayYiHang/surge/main/deepl.sgmodule, tag=Deepl, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+https://raw.githubusercontent.com/czy13724/Quantumult-X/main/Surge/Github.sgmodule, tag=GitHub 1.142.1, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Snippet/GoogleCAPTCHA.snippet, tag=GoogleCAPTCHA, update-interval=-1, opt-parser=true, enabled=false
+api.qonversion.io.snippet, tag=egern.yaml🌲, update-interval=-1, opt-parser=true, enabled=false
+http://script.hub/file/_start_/https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge-Beta.sgmodule/_end_/Surge-Beta.plugin?type=qx-rewrite&target=loon-plugin&del=true, tag=Sub.store, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/zwf234/rules/2dd422032adb178d7d3bd31c04353109495d9117/QuantumultX/qxrules.conf#L751, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Yu9191/Rewrite/main/Documents.js, tag=documents🧾, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rewrite/googleRedirect.qxrewrite, tag=GOOGLE REDIRECTED 🔁, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rewrite/MyAdBlock.qxrewrite, tag=MyAdBlock.qxrewrite, update-interval=-1, opt-parser=true, enabled=true
+7C05986DC460.snippet, tag=AllinOneRewrit, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+031199B6D531.snippet, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sultan1sa/Revenuecat/main/generation/raw/rr.js, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+script.snippet, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+C7803A354747.snippet, update-interval=-1, opt-parser=true, enabled=false
+unlo.snippet, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Alpsli/Surge/master/module/Revenuecat.conf, tag=Revenuecat🐈, update-interval=-1, opt-parser=true, enabled=false
+YouTube.snippet, tag=YouTube📺, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+https://raw.githubusercontent.com/YanbingJiang/Shadowrocket_diy_rules/main/Modules/YT-Premium-V1.module, tag=YouTube premium📺, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Moli-X/Resources/main/Rewrite/YouTube.conf, tag=YouTube 📺, update-interval=-1, opt-parser=true, enabled=false
+7B3F410E3EC2.snippet, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/chankanzu/Quan-X-1.3/b91215026e0590dd6675f2952e5ac40a08252bad/QuantumultX/Fake_Vip.txt, update-interval=-1, opt-parser=true, enabled=false
+heji.snippet, tag=heji local, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+https://raw.githubusercontent.com/Mikephie/Script/80c37cb576f6761dc4fbda6a3c8d44017c377eac/qx/mrevenue.js, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+https://raw.githubusercontent.com/Yarmukhamedov/mitm/main/modules/AppHud.txt, tag=Apphud, update-interval=-1, opt-parser=true, enabled=false
+CB3B8B599143.snippet, tag=api.qonversion.io, update-interval=-1, opt-parser=true, enabled=true
+4872BE679E21.snippet, tag=temp mail, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoAppRaven.js, tag=appraven, update-interval=-1, opt-parser=false, enabled=true
+09F0230E720D.snippet, update-interval=-1, opt-parser=true, enabled=false
+pro.snippet, tag=pro, update-interval=-1, opt-parser=true, enabled=false
+E2B9605DBB5F.snippet, tag=great 670, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+BBD61B9DA036.snippet, tag=adapty, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=true
+https://raw.githubusercontent.com/Grergo/QuantmultX/51cb8f99dd40ae048284a881c31409681605809a/VIP.conf, update-interval=-1, opt-parser=true, enabled=false
+4190A2BB04D0.snippet, update-interval=-1, opt-parser=true, enabled=false
+512C9628B583.snippet, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+https://raw.githubusercontent.com/sultan1sa/Revenuecat/main/generation/Revenue.js, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+https://paste.gg/p/anonymous/163f68fcad6d4a00af1932d045517cc9/files/c555cbdeecb541d9928e4a5e911ca80e/raw, update-interval=-1, opt-parser=true, enabled=false
+836E387805E6.snippet, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/kane-abbe/shadowrocket/main/Youtube/youtube.module, tag=YouTube📺, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Maasea/sgmodule/master/YouTube.Enhance.sgmodule, tag=YouTube📺, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/czy13724/Quantumult-X/main/scripts/nicegram.js, tag=Nicegram, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/sultan1sa/Revenuecat/main/generation/master.js, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sultan1sa/Revenuecat/main/generation/Revenuecat.js, update-interval=-1, opt-parser=true, enabled=false
+http://script.hub/file/_start_/http://local.text/_end_/local.sgmodule?type=qx-rewrite&target=surge-module&del=true&localtext=%23!name%3Drevenuecat%20%E5%8C%B9%E9%85%8D%0A%23!desc%3D%E6%8A%93%E5%8F%96%E4%BC%9A%E5%91%98%E4%BF%A1%E6%81%AF%0A%23!author%3D%40leepyer%0A%23!icon%3Dhttps%3A%2F%2Fgithub.com%2FToperlock%2FQuantumult%2Fraw%2Fmain%2Ficon%2FDoraemon%2FDoraemon-1037.png%0A%23!url%3Dhttp%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fs3czrm%2Fmyscripts%2Fmain%2Frevenuecatcatcher.plugin%2F_end_%2Frevenuecatcatcher.sgmodule%3Ftype%3Dloon-plugin%26target%3Dshadowrocket-module%26del%3Dtrue%0A%23!homepage%3Dhttps%3A%2F%2Fgithub.com%2Fleey668%0A%23!date%3D2023-12-15%2000%3A00%3A00%0A%0A%5BScript%5D%0Ahttp-response%20https%3A%5C%2F%5C%2Fapi%5C.revenuecat%5C.com%5C%2Fv1%5C%2F(product_entitlement_mapping%7Csubscribers%5C%2F.%2B%5C%2F(offerings%7Cproducts))%20script-path%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fleey668%2Fpyer%2Fmain%2Frevenuecatcatcher.js%2C%20requires-body%3Dtrue%2C%20timeout%3D60%2C%20tag%3Drevenuecatcatcher%0A%0Ahttp-request%20https%3A%5C%2F%5C%2Fapi%5C.revenuecat%5C.com%5C%2Fv1%5C%2Fsubscribers%5C%2F.%2B%5C%2Fofferings%20script-path%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fleey668%2Fpyer%2Fmain%2Fget_product_entitlement_mapping.js%2C%20timeout%3D60%2C%20tag%3Dgetproductentitlementmapping%0A%0Ahttp-response%20%5Ehttps%3F%3A%5C%2F%5C%2Fapi%5C.revenuecat%5C.com%5C%2F.%2B%5C%2F(receipts%24%7Csubscribers%5C%2F%3F(.*%3F)*%24)%20script-path%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fleey668%2Fpyer%2Fmain%2Frevenuecat.js%2C%20requires-body%3Dtrue%2C%20timeout%3D60%2C%20tag%3Drevenuecat1%0A%0Ahttp-request%20%5Ehttps%3F%3A%5C%2F%5C%2Fapi%5C.revenuecat%5C.com%5C%2F.%2B%5C%2F(receipts%24%7Csubscribers%5C%2F%3F(.*%3F)*%24)%20script-path%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fleey668%2Fpyer%2Fmain%2Frevenuecat.js%2C%20timeout%3D60%2C%20tag%3Drevenuecat2%0A%0A%5BMITM%5D%0Ahostname%20%3D%20api.revenuecat.com%0A, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+https://paste.gg/p/anonymous/0f348935193d4667aec622bdc93aa64f/files/382024ae8bac482fa27ada261cae899a/raw, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/QX.snippet, tag=Sub.Store, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/githubdulong/Script/master/Surge/Revenuecat.sgmodule, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/alalalex-m/AlQuantumult/181e45fe137fcd8c35830d5a166e3c8bb391b057/Scripts/revenueCat.js, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/alalalex-m/AlQuantumult/181e45fe137fcd8c35830d5a166e3c8bb391b057/Scripts/VerifyReceipt.js, tag=# All Apple in one, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/linuszlx/QuantumultX/27e20272f6ac073a9b1ceaf4b944f14b15ef0f22/Crack.conf, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/user001235/112/main/leey668.txt, update-interval=-1, opt-parser=true, enabled=false
+https://github.ioiox.com/GitHub/Rules-For-Quantumult-X/raw/branch/develop/Rewrite/Unlock/Secret.unlock, tag=Revenuecat, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/BOBOLAOSHIV587/QX-Rules/44b39104b701f0847f54c9a9615775069473673c/QX.conf, tag=QX /QX-Rules, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sultan1sa/Script-conf/c6fbb220db9ebd169c435590d92446f9cb7c9c5e/shadowrocket/surge/s#L10, update-interval=-1, opt-parser=true, enabled=false
+https://paste.gg/p/anonymous/badb796d5be048eabefcb2b4688df753/files/2066ae4b51c4494c8f66e5072f9a9825/raw, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/thebestkyle323/Quantumult-x/main/heji.js, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sohaha/QX/39b44465d0c4475861af2a838057f7e487d2ad61/Scripts/nntx.conf, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/pxx917144686/ios/master/rewrite/QuantumultX/chat_Smith.js, tag=chat smith, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/chxm1023/Rewrite/main/adapty.js, tag=adapty, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Guding88/Script/main/Cubox.js, tag=CUBOX, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/komo1iddin/surge-modules/main/modules/revenuecat.module, tag=Revenuecat🐈‍⬛, update-interval=-1, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/QX.snippet, tag=SUB.STORE, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.beta.qx.conf, tag=script hub, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=false
+https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/refs/heads/main/modules/script-hub.beta.qx.conf, tag=Script.hub, update-interval=-1, opt-parser=true, enabled=false
+https://github.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.conf, tag=boxjs📦, update-interval=-1, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/refs/heads/main/modules/script-hub.qx.conf, tag=script-hub.qx.conf, update-interval=-1, opt-parser=false, enabled=false
+AD3C7A5F88E3.snippet, update-interval=-1, opt-parser=true, enabled=true
