@@ -1,11 +1,11 @@
 #Number of rules:9
 # > infinity home page extension
-HOST-WILDCARD,infinitypro-img.infinitynewtab.com
-HOST-WILDCARD,infinity-permanent.infinitynewtab.com
-HOST-WILDCARD,m.inftab.com
-HOST-WILDCARD,inftab.com
-HOST-WILDCARD,infinitynewtab.com
-HOST-WILDCARD,infinityicon.infinitynewtab.com
-HOST-WILDCARD,ws.infinitynewtab.com
-HOST-WILDCARD,api.infinitynewtab.com
-HOST-WILDCARD,s3.amazonaws.com
+HOST-SUFFIX,infinitypro-img.infinitynewtab.com
+HOST-SUFFIX,infinity-permanent.infinitynewtab.com
+HOST-SUFFIX,m.inftab.com
+HOST-SUFFIX,inftab.com
+HOST-SUFFIX,infinitynewtab.com
+HOST-SUFFIX,infinityicon.infinitynewtab.com
+HOST-SUFFIX,ws.infinitynewtab.com
+HOST-SUFFIX,api.infinitynewtab.com
+HOST-SUFFIX,s3.amazonaws.com
