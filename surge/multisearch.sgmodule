@@ -1,0 +1,20 @@
+#!name=multi search
+#!desc=sultan-sa edit
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/multisearch.png
+#!homepage=https://whatshub.top
+
+[URL Rewrite]
+^https:\/\/www\.duckduckgo\.com\/search\?q=gpt(\+|%20)([^&]+).+ https://chatgpt.com/?q=$2 302
+^https:\/\/www\.duckduckgo\.com\/search\?q=gen(\+|%20)([^&]+).+ https://www.genspark.ai/search?q=$2 302
+^https:\/\/www\.duckduckgo\.com\/search\?q=gh(\+|%20)([^&]+).+ https://github.com/search?type=code&q=$2 302
+^https:\/\/www\.duckduckgo\.com\/search\?q=gi(\+|%20)([^&]+).+ https://isou.chat/search?q=$2 302
+^https:\/\/www\.duckduckgo\.com\/search\?q=yd(\+|%20)([^&]+).+ ‎‏https://yandex.com/images/touch/search?lr=21467&text=$2 302
+^https:\/\/www\.duckduckgo\.com\/search\?q=exa(\+|%20)([^&]+).+ https://exa.ai/search?q=$2 302
+^https:\/\/www\.duckduckgo\.com\/search\?q=db(\+|%20)([^&]+).+ https://dsearch.com/search?q=$2 302
+^https:\/\/www\.duckduckgo\.com\/search\?q=zh(\+|%20)([^&]+).+ https://yandex.com/images/touch/search?lr=21467&text=$2 302
+^https:\/\/www\.duckduckgo\.com\/search\?q=ru(\+|%20)([^&]+).+ https://ya.ru/search/?text=$2 302
+^https:\/\/www\.duckduckgo\.com\/search\?git=cod(\+|%20)([^&]+).+ https://gist.github.com/search?q=$2 302
+^https:\/\/www\.duckduckgo\.com\/search\?q=ka(\+|%20)([^&]+).+ https://kagi.com/search?q=$2 302
+
+[MITM]
+hostname = %APPEND% www.duckduckgo.com
